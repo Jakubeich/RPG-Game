@@ -1,9 +1,17 @@
 # RPG-Game
 -------------------
-A prototype RPG game created in GameMaker Studio 1.4
+A prototype RPG game created in GameMaker Studio 1.4. The prototype has two control options, a gamepad and a keyboard.
 
-![](RPG_Game_Player_down.gif)
-\
-![](RPG_Game_Player_attack.gif)
-\
-![](RPG_Game_Slime.gif)
+# Controls
+-------------------
+Control on keyboard:
+
+* Movement: Arrow Up, Down, Left, Right
+* Attackc: X
+* Dash: C
+
+You can also play this game on a gamepad from xbox.
+
+# Other
+
+PROJECT COMPLETED YET!
