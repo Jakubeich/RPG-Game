@@ -24,6 +24,7 @@
     <sprite>sprites\spr_damage</sprite>
     <sprite>sprites\spr_expr</sprite>
     <sprite>sprites\spr_health</sprite>
+    <sprite>sprites\spr_tree</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_grass</background>
@@ -63,6 +64,7 @@
     <object>objects\obj_expr</object>
     <object>objects\obj_health</object>
     <object>objects\obj_door</object>
+    <object>objects\obj_tree</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_one</room>
